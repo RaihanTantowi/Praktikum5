@@ -99,7 +99,9 @@ Program ini adalah
 ![Gambar 1](Screenshoot/ss1.png)
 
 
-![Gambar 2](Screenshoot/ss2.jpeg)
+![Gambar 2](Screenshoot/ss2.png)
+
+![Gambar 4](Screenshoot/ss4.png)
 
 ### 2. File Praktikum.py
 Program ini adalah program sederhana yang akan menampilkan daftar nilai mahasiswa, Dengan program yang dibuat dengan menggunakan **Dictionary**
