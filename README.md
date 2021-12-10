@@ -1,7 +1,7 @@
 # Praktikum5
 ## Tugas Pertemuan 10 - Bahasa Pemrograman
 
-### 1. File Latihan1.py
+### 1. File Latihan.py
 Program ini adalah 
 
 * **CODINGAN:**
