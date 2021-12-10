@@ -101,7 +101,7 @@ Program ini adalah
 
 ![Gambar 2](Screenshoot/ss2.jpeg)
 
-### 2. File program 
+### 2. File Praktikum.py
 Program ini adalah program sederhana yang akan menampilkan daftar nilai mahasiswa, Dengan program yang dibuat dengan menggunakan **Dictionary**
 * **CODINGAN:**
 ```
