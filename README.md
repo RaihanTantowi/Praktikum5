@@ -301,4 +301,4 @@ Ouput program menambahkan data, dengan memasukkan keyword "t".
      else:
          print("Pilih Menu Yang Tersedia")
     ``` 
-    thanks
+10. Terima Kasih :)
