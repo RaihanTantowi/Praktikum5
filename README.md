@@ -195,7 +195,8 @@ Ouput program menambahkan data, dengan memasukkan keyword "t".
 
 
 * **Flowchart:**
-![Gambar 4](Screenshoot/flowchart.png)
+
+![Gambar 4](Screenshoot/Flowchart.png)
 
 
 * **Penjelasan program:**
