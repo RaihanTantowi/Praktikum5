@@ -229,7 +229,7 @@ Ouput program menambahkan data, dengan memasukkan keyword "t".
          n_akhir = tugas * 0.30 + uts * 0.35 + uas * 0.35
          a[nama] = nim, uts, uas, tugas, n_akhir
 	```
-5. Codingan dibawah merupakan sebuah Inputan (masukan data) seperti menu program yaitu (U)bah, jika ingin mengubah data maka program akan meminta untuk memasukkan Nama, NIM, Nilai Uts, Nilai Uas , dan Nilai Tugas. sama hal dengan dengan program yang sebelumnya yaitu menambahkan data, hanya saja bedanya jika codingan ini diminta untuk memasukan nilai *values* yang berbeda dari data nilai yang sebelumnya diinput.
+5. Codingan dibawah merupakan sebuah Inputan (masukan data) seperti menu program yaitu (U)bah, jika ingin mengubah data maka program akanmeminta untuk memasukkan Nama, NIM, Nilai Uts, Nilai Uas , dan Nilai Tugas. sama hal dengan dengan program yang sebelumnya yaitu menambahkan data, hanya saja bedanya jika codingan ini diminta untuk memasukan nilai *values* yang berbeda dari data nilai yang sebelumnya diinput.
 	```python
 	     elif x.lower() == 'u':
          print("Ubah Data")
@@ -301,3 +301,5 @@ Ouput program menambahkan data, dengan memasukkan keyword "t".
      else:
          print("Pilih Menu Yang Tersedia")
     ```
+    
+10. Terima Kasih :)
