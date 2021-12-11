@@ -2,7 +2,7 @@
 ## Tugas Pertemuan 10 - Bahasa Pemrograman
 
 ### 1. File Latihan.py
-Program ini adalah 
+Program ini adalah program latihan membuat daftar kontak menggunakan dictionary.
 
 * **CODINGAN:**
 ```
@@ -195,7 +195,7 @@ Ouput program menambahkan data, dengan memasukkan keyword "t".
 
 
 * **Flowchart:**
-
+![Gambar 4](Screenshoot/flowchart.png)
 
 
 * **Penjelasan program:**
