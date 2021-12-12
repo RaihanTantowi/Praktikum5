@@ -216,8 +216,7 @@ Ouput program menambahkan data, dengan memasukkan keyword "t".
 	while True:
     x = input("(T)ambah, (U)bah, (H)apus, (C)ari, (L)ihat, (K)eluar: ")
     ```
-4. Codingan dibawah merupakan sebuah Inputan (masukan data) jika kita memilih menu seperti (T)ambah, (U)bah, (H)apus, (C)ari,
-  (L)ihat, (K)eluar, jika ingin menambahkan data maka program akan meminta untuk memasukkan Nama, NIM, Nilai Uts, Nilai Uas , dan Nilai Tugas
+4. Codingan dibawah merupakan sebuah Inputan (masukan data) jika kita memilih menu (T)ambah dan ingin menambahkan data, Maka program akan meminta anda untuk memasukkan Nama, NIM, Nilai Uts, Nilai Uas, dan Nilai Tugas
 	```python
      if x.lower() == 't':
          print("Tambah Data")
@@ -229,7 +228,7 @@ Ouput program menambahkan data, dengan memasukkan keyword "t".
          n_akhir = tugas * 0.30 + uts * 0.35 + uas * 0.35
          a[nama] = nim, uts, uas, tugas, n_akhir
 	```
-5. Codingan dibawah merupakan sebuah Inputan (masukan data) seperti menu program yaitu (U)bah, jika ingin mengubah data maka program akanmeminta untuk memasukkan Nama, NIM, Nilai Uts, Nilai Uas , dan Nilai Tugas. sama hal dengan dengan program yang sebelumnya yaitu menambahkan data, hanya saja bedanya jika codingan ini diminta untuk memasukan nilai *values* yang berbeda dari data nilai yang sebelumnya diinput.
+5. Codingan dibawah merupakan sebuah Inputan (masukan data) seperti menu program yaitu (U)bah, jika ingin mengubah data maka program akan meminta anda untuk memasukkan Nama, NIM, Nilai Uts, Nilai Uas , dan Nilai Tugas. sama hal dengan dengan program yang sebelumnya yaitu menambahkan data, hanya saja bedanya jika codingan ini diminta untuk memasukan nilai *values* yang berbeda, Hal ini sedikit berbeda dari data nilai yang sebelumnya diinput.
 	```python
 	     elif x.lower() == 'u':
          print("Ubah Data")
@@ -244,7 +243,7 @@ Ouput program menambahkan data, dengan memasukkan keyword "t".
          else:
              print("Nama{0} Tidak Ditemukan".format(nama))
     ```
-6. Apabila ingin menghapus sebuah data yang telah diinput pada sebuah program, maka pilih menu (H)apus, nantinya program tersebut akan diminta untuk "Memasukkan Nama" saja berbeda dengan pilihan menu dari inputan yang sebelumnya. 
+6. Apabila ingin menghapus sebuah data yang telah diinput pada sebuah program, Maka pilih menu (H)apus, nantinya program tersebut akan diminta untuk "Memasukkan Nama" saja berbeda dengan pilihan menu dari inputan yang sebelumnya. 
     ```python
      elif x.lower() == 'h':
          print("Hapus Data")
@@ -293,7 +292,7 @@ Ouput program menambahkan data, dengan memasukkan keyword "t".
              print("|                                TIDAK ADA DATA                              |")
              print("=" * 78)
 	```
-9. Jika data sudah selesai diinput, pilih menu "k" atau "K" maka program secara otomatis akan berhenti.
+9. Jika data sudah selesai diinput, Pilih menu "k" atau "K" maka program secara otomatis akan berhenti.
 	```python
 	 elif x.lower() == 'k':
          break
